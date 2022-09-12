@@ -127,7 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="소스.cpp" />
+    <ClCompile Include="문제1.cpp" />
+    <ClCompile Include="문제2.cpp" />
+    <ClCompile Include="문제3.cpp" />
+    <ClCompile Include="문제4.cpp" />
+    <ClCompile Include="문제5.cpp" />
+    <ClCompile Include="문제6.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
