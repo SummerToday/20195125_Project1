@@ -11,7 +11,7 @@ int main() {
 		cin >> c;
 		if ((int)c > 64 && (int)c < 91)
 			cout << "Check to alphabet" << endl;
-		if (c == EOF) break;
+		if (cin.eof()) break;
 		switch (c) {
 		case 'a':
 		case'e':
